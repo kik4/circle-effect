@@ -1,3 +1,5 @@
+"use strict";
+
 const width = 1920;
 const height = 1080;
 const r = 200;
